@@ -1,0 +1,7 @@
+User-agent:*
+Allow:/
+Disallow: /*.doc
+Disallow: /admin*
+
+Sitemap: http://www.3dpix.ru/sitemap.xml
+Host: www.3dpix.ru
